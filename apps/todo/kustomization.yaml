@@ -16,5 +16,5 @@ resources:
   - dashboard.yaml
 images:
   - name: todo-api
-    newName: ghcr.io/your-github-user/todo-api
+    newName: ghcr.io/ailavajuthy/todo-api
     newTag: "replace-me-ci-sets-this"

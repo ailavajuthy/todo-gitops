@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-github-user/todo-gitops.git
+    repoURL: https://github.com/ailavajuthy/todo-gitops.git
     targetRevision: main
     path: apps/todo
   destination:
